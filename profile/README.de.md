@@ -19,6 +19,14 @@ Al‑Wahha Al‑Sehriya bietet Unternehmen und Institutionen digitale Lösungen:
 - **Systemintegration und Automatisierung:** Nachrichtenaustausch mit Kafka, Bereitstellung von Diensten mit Docker und KI-gestützte Arbeitsabläufe mit Spring AI.
 - **Datenanalyse und Business Intelligence:** Datenaufbereitung und Analyse, interaktive Dashboards, Überwachung von Leistungskennzahlen und Managementberichte mit **Power BI und Tableau**.
 
+## Anwendungsbereiche unserer Backend-Lösungen
+
+- **Bankensysteme:** Konto- und Transaktionsverwaltung, sicherer Zugriff und Integrationen.
+- **Praxisverwaltungssysteme:** Patientenakten, Terminverwaltung und Mitarbeiterzugriff.
+- **E-Commerce-Systeme:** Produktkataloge, Bestellungen, Lagerverwaltung und Zahlungsintegrationen.
+
+Dies sind Entwicklungsbereiche des Unternehmens. Für jedes veröffentlichte Projekt werden der Umsetzungsstand und die Rolle des Unternehmens angegeben.
+
 ## Produkte und Lösungen
 
 ### WSEMS — Unternehmensmanagementsystem
