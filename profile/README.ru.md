@@ -1,6 +1,6 @@
-# Al‑Wahha Al‑Sehriya | الواحة السحرية
+# Al‑Wahha Al‑Sehriya
 
-[العربية](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.md) · [English](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.en.md) · [Türkçe](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.tr.md) · [Русский](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ru.md) · [Deutsch](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.de.md)
+[English](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.md) · [العربية](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ar.md) · [Türkçe](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.tr.md) · [Русский](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ru.md) · [Deutsch](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.de.md)
 
 **Дизайн и разработка сайтов • Хостинг и сопровождение • Решения для бизнеса • Разработка мобильных приложений**
 

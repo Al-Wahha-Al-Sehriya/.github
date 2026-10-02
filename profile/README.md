@@ -1,49 +1,49 @@
-# الواحة السحرية | Al‑Wahha Al‑Sehriya
+# Al‑Wahha Al‑Sehriya
 
-[العربية](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.md) · [English](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.en.md) · [Türkçe](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.tr.md) · [Русский](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ru.md) · [Deutsch](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.de.md)
+[English](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.md) · [العربية](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ar.md) · [Türkçe](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.tr.md) · [Русский](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ru.md) · [Deutsch](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.de.md)
 
-**تصميم وتطوير المواقع • الاستضافة والصيانة • حلول الأعمال • تطوير التطبيقات**
+**Web design and development • Hosting and maintenance • Business solutions • Mobile app development**
 
-الواحة السحرية شركة تقدم حلولاً رقمية للشركات والمؤسسات، من تصميم المواقع وتطوير البرمجيات إلى الاستضافة والدعم الفني وأنظمة الأعمال. **Magical Oasis** هو اسم ثانوي للشركة، ويظهر **WSCICT** أيضاً في موقعها.
+Al‑Wahha Al‑Sehriya provides digital solutions for companies and institutions, from websites and software development to hosting, technical support and business systems. **Magical Oasis** is a secondary company name; **WSCICT** also appears on the company website.
 
-## خدماتنا
+## Our services
 
-- **تصميم وتطوير المواقع:** مواقع الشركات، المواقع المتجاوبة، بوابات المؤسسات، صفحات الهبوط ولوحات التحكم.
-- **الاستضافة والصيانة:** استضافة المواقع، VPS، السيرفرات المخصصة، بريد الأعمال، SSL، النسخ الاحتياطي والمراقبة والدعم الفني.
-- **أنظمة الأعمال:** حلول مخصصة لإدارة المشاريع والعقود والفواتير والوثائق والعمليات.
-- **الذكاء الاصطناعي والأتمتة:** مساعدون أذكياء، البحث في المعرفة، تنظيم البيانات وأتمتة الإجراءات.
-- **الأمن والحماية:** إدارة الصلاحيات، تقوية الأمان وحماية المواقع.
-- **الهوية والحضور الرقمي:** تنظيم المحتوى وعرض هوية الشركة بشكل احترافي.
-- **تطوير تطبيقات Android وiOS:** مجال جديد ضمن خدمات الشركة؛ ستُضاف نماذج الأعمال عند نشرها.
+- **Web design and development:** company websites, responsive websites, institutional portals, landing pages and dashboards.
+- **Hosting and maintenance:** website hosting, VPS, dedicated servers, business email, SSL, backups, monitoring and technical support.
+- **Business systems:** tailored solutions for projects, contracts, invoices, documents and operations.
+- **AI and automation:** intelligent assistants, knowledge search, data organization and workflow automation.
+- **Security and protection:** access management, security hardening and website protection.
+- **Branding and digital presence:** content structure and professional company presentation.
+- **Android and iOS app development:** a new service area; examples will be added when published.
 
-## منتجاتنا وحلولنا
+## Products and solutions
 
-### WSEMS — نظام إدارة المؤسسات
+### WSEMS — Enterprise Management System
 
-يعرض موقع الشركة نظاماً متعدد الوحدات لإدارة المشاريع والعقود والفواتير والمالية والوثائق والموارد البشرية والأصول والمشتريات والتقارير. يناقش نطاق التخصيص مع كل عميل.
+The company website presents a system with modules for projects, contracts, invoices, finance, documents, HR, assets, procurement and reporting. The customization scope is agreed with each client.
 
-### نظام إدارة المجلات العلمية
+### Academic Journal Management System
 
-حل للمجلات الجامعية والعلمية، بواجهة عربية وإنكليزية، وأرشيف للأعداد والمجلدات، وبحث، ومعلومات هيئة التحرير وأدلة المؤلفين والمحكمين وسياسات النشر، مع الاستضافة والصيانة.
+A solution for university and scientific journals with Arabic and English interfaces, issue and volume archives, search, editorial information, author and reviewer guides, publishing policies, hosting and maintenance.
 
-[تفاصيل نظام المجلات](https://wahasehriya.com/journal-management-system)
+[Explore the journal system](https://wahasehriya.com/journal-management-system)
 
-## نماذج أعمال منشورة في موقع الشركة
+## Work featured on our website
 
-- [Inanna Journal of Natural Sciences](https://inannajournal.org/) — موقع مجلة علمية.
-- [Basic Education College Journal](https://becj-iq.org/) — موقع مجلة أكاديمية.
+- [Inanna Journal of Natural Sciences](https://inannajournal.org/) — scientific journal website.
+- [Basic Education College Journal](https://becj-iq.org/) — academic journal website.
 
-تُعرض هذه الأمثلة في موقع الشركة ضمن أعمال تصميم واستضافة المجلات.
+Our website lists these examples among the team's journal design and hosting work.
 
-## كيف نعمل؟
+## How we work
 
-دراسة المتطلبات → تحديد النطاق والعرض → التصميم والتطوير → الاختبار → الإطلاق → الصيانة والدعم.
+Requirements → scope and proposal → design and development → testing → launch → maintenance and support.
 
-## تواصل معنا
+## Contact
 
-- **الموقع:** [wahasehriya.com](https://wahasehriya.com/)
-- **البريد:** [info@wahasehriya.com](mailto:info@wahasehriya.com)
-- **الهاتف:** [+90 537 450 61 39](tel:+905374506139)
-- **العنوان:** Güzelyurt, Mevlana Cd. 33/A, Beylikdüzü 34515, Istanbul, Turkey
+- **Website:** [wahasehriya.com](https://wahasehriya.com/)
+- **Email:** [info@wahasehriya.com](mailto:info@wahasehriya.com)
+- **Phone:** [+90 537 450 61 39](tel:+905374506139)
+- **Address:** Güzelyurt, Mevlana Cd. 33/A, Beylikdüzü 34515, Istanbul, Turkey
 
-هذه المنظمة هي الواجهة الأساسية لمشاريع الشركة على GitHub. سيُنشر المحتوى العام والموارد المسموح بمشاركتها هنا؛ وتبقى مستودعات العملاء الخاصة محكومة باتفاقياتهم.
+This is the company's main GitHub organization. Public resources and material approved for sharing will be published here; private client repositories remain subject to their agreements.
