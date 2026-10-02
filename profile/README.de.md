@@ -4,7 +4,7 @@
 
 **Webdesign und Entwicklung • Hosting und Wartung • Backend-Entwicklung • Datenanalyse • Entwicklung mobiler Apps**
 
-Al‑Wahha Al‑Sehriya bietet Unternehmen und Institutionen digitale Lösungen: von Websites und Softwareentwicklung über Hosting und technischen Support bis hin zu Unternehmenssystemen. **Magical Oasis** ist ein weiterer Name des Unternehmens; auf der Unternehmenswebsite wird auch **WSCICT** verwendet.
+Mit rund 15 Jahren Erfahrung unterstützt **Al‑Wahha Al‑Sehriya** Unternehmen und Institutionen dabei, Ideen in praktische digitale Lösungen umzusetzen. Wir verbinden Web- und App-Entwicklung, Unternehmenssysteme, Hosting und Datenanalyse, um Ihre digitale Präsenz zu stärken und den Geschäftsalltag zu vereinfachen.
 
 ## Unsere Leistungen
 
@@ -14,7 +14,7 @@ Al‑Wahha Al‑Sehriya bietet Unternehmen und Institutionen digitale Lösungen:
 - **KI und Automatisierung:** intelligente Assistenten, Wissenssuche, Datenorganisation und automatisierte Arbeitsabläufe.
 - **Sicherheit und Schutz:** Zugriffsverwaltung, Verbesserung der Sicherheit und Schutz von Websites.
 - **Markenauftritt und digitale Präsenz:** strukturierte Inhalte und professionelle Unternehmensdarstellung.
-- **Entwicklung von Android- und iOS-Apps:** ein neuer Leistungsbereich; Referenzen werden nach ihrer Veröffentlichung ergänzt.
+- **Entwicklung von Android- und iOS-Apps:** mobile Anwendungen für Ihre Geschäftsanforderungen, die Kunden und Mitarbeiter mit Ihren Diensten verbinden.
 - **Backend-Entwicklung:** Dienste mit Java und Spring Boot, REST-APIs, Microservices, Authentifizierung, rollenbasierte Zugriffssteuerung sowie Datenbankintegration mit PostgreSQL und MySQL.
 - **Systemintegration und Automatisierung:** Nachrichtenaustausch mit Kafka, Bereitstellung von Diensten mit Docker und KI-gestützte Arbeitsabläufe mit Spring AI.
 - **Datenanalyse und Business Intelligence:** Datenaufbereitung und Analyse, interaktive Dashboards, Überwachung von Leistungskennzahlen und Managementberichte mit **Power BI und Tableau**.
@@ -25,13 +25,13 @@ Al‑Wahha Al‑Sehriya bietet Unternehmen und Institutionen digitale Lösungen:
 - **Praxisverwaltungssysteme:** Patientenakten, Terminverwaltung und Mitarbeiterzugriff.
 - **E-Commerce-Systeme:** Produktkataloge, Bestellungen, Lagerverwaltung und Zahlungsintegrationen.
 
-Dies sind Entwicklungsbereiche des Unternehmens. Für jedes veröffentlichte Projekt werden der Umsetzungsstand und die Rolle des Unternehmens angegeben.
+Wir passen diese Lösungen an Ihre Arbeitsabläufe, Integrationsanforderungen und Unternehmensziele an.
 
 ## Produkte und Lösungen
 
 ### WSEMS — Unternehmensmanagementsystem
 
-Die Unternehmenswebsite stellt ein System mit Modulen für Projekte, Verträge, Rechnungen, Finanzen, Dokumente, Personal, Anlagen, Beschaffung und Berichte vor. Der Umfang der Anpassung wird mit jedem Kunden vereinbart.
+Führen Sie Projekte, Verträge, Rechnungen, Finanzen, Dokumente, Personal, Anlagen, Beschaffung und Berichte auf einer Plattform zusammen. **WSEMS** verschafft Ihrem Team einen besseren Überblick über die Abläufe – mit Modulen, Berechtigungen und Prozessen, die auf Ihr Unternehmen abgestimmt sind.
 
 ### Verwaltungssystem für wissenschaftliche Zeitschriften
 
@@ -39,12 +39,12 @@ Eine Lösung für universitäre und wissenschaftliche Zeitschriften mit arabisch
 
 [Mehr zum Zeitschriftensystem](https://wahasehriya.com/journal-management-system)
 
-## Auf unserer Website vorgestellte Arbeiten
+## Ausgewählte Arbeiten
 
 - [Inanna Journal of Natural Sciences](https://inannajournal.org/) — Website einer wissenschaftlichen Zeitschrift.
 - [Basic Education College Journal](https://becj-iq.org/) — Website einer akademischen Zeitschrift.
 
-Die Unternehmenswebsite führt diese Beispiele als Arbeiten des Teams im Bereich Zeitschriftendesign und Hosting auf.
+Wir entwickeln und hosten Plattformen für akademische Veröffentlichungen, die das Finden, Lesen und Verwalten von Zeitschrifteninhalten erleichtern.
 
 ## Unser Ablauf
 
@@ -57,4 +57,4 @@ Anforderungen → Leistungsumfang und Angebot → Design und Entwicklung → Tes
 - **Telefon:** [+90 537 450 61 39](tel:+905374506139)
 - **Adresse:** Güzelyurt, Mevlana Cd. 33/A, Beylikdüzü 34515, Istanbul, Turkey
 
-Dies ist die zentrale GitHub-Organisation des Unternehmens. Öffentliche Ressourcen und zur Weitergabe freigegebene Inhalte werden hier veröffentlicht; private Kunden-Repositories unterliegen den jeweiligen Vereinbarungen.
+**Entwickeln wir die passende Lösung für Ihr Unternehmen.** [Erzählen Sie uns von Ihrem Projekt](mailto:info@wahasehriya.com), um Ihre Anforderungen zu besprechen und ein individuelles Angebot zu erhalten.
