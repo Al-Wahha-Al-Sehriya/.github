@@ -4,7 +4,7 @@
 
 **Web tasarımı ve geliştirme • Hosting ve bakım • Backend geliştirme • Veri analitiği • Mobil uygulama geliştirme**
 
-Al‑Wahha Al‑Sehriya, şirketlere ve kurumlara web sitesi ve yazılım geliştirmeden hosting, teknik destek ve iş yönetim sistemlerine kadar dijital çözümler sunar. **Magical Oasis** şirketin ikincil adıdır; şirketin web sitesinde **WSCICT** adı da kullanılmaktadır.
+Yaklaşık 15 yıllık deneyimiyle **Al‑Wahha Al‑Sehriya**, şirketlerin ve kurumların fikirlerini işlevsel dijital çözümlere dönüştürür. Web ve mobil geliştirme, iş yönetim sistemleri, hosting ve veri analitiğini bir araya getirerek dijital varlığınızı güçlendirir, günlük operasyonlarınızı kolaylaştırırız.
 
 ## Hizmetlerimiz
 
@@ -14,7 +14,7 @@ Al‑Wahha Al‑Sehriya, şirketlere ve kurumlara web sitesi ve yazılım geliş
 - **Yapay zekâ ve otomasyon:** akıllı asistanlar, bilgi arama, veri düzenleme ve iş akışı otomasyonu.
 - **Güvenlik ve koruma:** erişim yönetimi, güvenliği güçlendirme ve web sitesi koruması.
 - **Kurumsal kimlik ve dijital varlık:** içerik yapılandırması ve profesyonel şirket sunumu.
-- **Android ve iOS uygulama geliştirme:** yeni bir hizmet alanıdır; yayımlanan çalışmalar daha sonra eklenecektir.
+- **Android ve iOS uygulama geliştirme:** iş ihtiyaçlarınıza göre tasarlanan, müşterilerinizi ve ekibinizi hizmetlerinize bağlayan mobil uygulamalar.
 - **Backend geliştirme:** Java ve Spring Boot servisleri, REST API'leri, mikroservisler, kimlik doğrulama, rol tabanlı erişim ve PostgreSQL ile MySQL veritabanı entegrasyonu.
 - **Sistem entegrasyonu ve otomasyon:** Kafka ile mesajlaşma, Docker ile servislerin hazırlanması ve dağıtımı, Spring AI ile yapay zekâ destekli iş akışları.
 - **Veri analitiği ve iş zekâsı:** **Power BI ve Tableau** ile veri hazırlama ve analizi, etkileşimli panolar, performans göstergelerinin takibi ve yönetim raporları.
@@ -25,13 +25,13 @@ Al‑Wahha Al‑Sehriya, şirketlere ve kurumlara web sitesi ve yazılım geliş
 - **Klinik yönetim sistemleri:** hasta kayıtları, randevular ve personel erişimi.
 - **E-ticaret sistemleri:** ürün katalogları, siparişler, stok ve ödeme entegrasyonları.
 
-Bunlar şirketin geliştirme alanlarıdır. Yayımlanan her projede uygulama durumu ve şirketin rolü belirtilecektir.
+Çözümlerimizi iş akışlarınıza, entegrasyon ihtiyaçlarınıza ve kurumunuzun önceliklerine göre uyarlıyoruz.
 
 ## Ürünler ve çözümler
 
 ### WSEMS — Kurumsal Yönetim Sistemi
 
-Şirketin web sitesinde proje, sözleşme, fatura, finans, belge, insan kaynakları, varlık, satın alma ve raporlama modülleri bulunan bir sistem tanıtılmaktadır. Özelleştirme kapsamı her müşteriyle belirlenir.
+Proje, sözleşme, fatura, finans, belge, insan kaynakları, varlık, satın alma ve raporlama süreçlerinizi tek bir platformda birleştirin. **WSEMS**, kurumunuza göre uyarlanan modüller, yetkiler ve iş akışlarıyla ekibinizin operasyonları daha net görmesini sağlar.
 
 ### Akademik Dergi Yönetim Sistemi
 
@@ -39,12 +39,12 @@ Bunlar şirketin geliştirme alanlarıdır. Yayımlanan her projede uygulama dur
 
 [Dergi sistemini inceleyin](https://wahasehriya.com/journal-management-system)
 
-## Web sitemizde yer alan çalışmalar
+## Çalışmalarımızdan örnekler
 
 - [Inanna Journal of Natural Sciences](https://inannajournal.org/) — bilimsel dergi web sitesi.
 - [Basic Education College Journal](https://becj-iq.org/) — akademik dergi web sitesi.
 
-Şirketin web sitesinde bu örnekler, ekibin dergi tasarımı ve hosting çalışmaları arasında sunulmaktadır.
+Dergi içeriklerinin bulunmasını, incelenmesini ve yönetilmesini kolaylaştıran akademik yayın platformları tasarlıyor ve barındırıyoruz.
 
 ## Çalışma sürecimiz
 
@@ -57,4 +57,4 @@ Gereksinimler → kapsam ve teklif → tasarım ve geliştirme → test → yay�
 - **Telefon:** [+90 537 450 61 39](tel:+905374506139)
 - **Adres:** Güzelyurt, Mevlana Cd. 33/A, Beylikdüzü 34515, Istanbul, Turkey
 
-Bu, şirketin ana GitHub organizasyonudur. Herkese açık kaynaklar ve paylaşılması onaylanan içerikler burada yayımlanacaktır; müşterilere ait özel depolar ilgili anlaşmalara tabidir.
+**İşletmeniz için doğru çözümü birlikte geliştirelim.** İhtiyaçlarınızı görüşmek ve size özel bir teklif almak için [projenizi bize anlatın](mailto:info@wahasehriya.com).
