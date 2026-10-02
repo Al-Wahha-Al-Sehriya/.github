@@ -19,6 +19,14 @@ Al‑Wahha Al‑Sehriya, şirketlere ve kurumlara web sitesi ve yazılım geliş
 - **Sistem entegrasyonu ve otomasyon:** Kafka ile mesajlaşma, Docker ile servislerin hazırlanması ve dağıtımı, Spring AI ile yapay zekâ destekli iş akışları.
 - **Veri analitiği ve iş zekâsı:** **Power BI ve Tableau** ile veri hazırlama ve analizi, etkileşimli panolar, performans göstergelerinin takibi ve yönetim raporları.
 
+## Backend çözüm alanları
+
+- **Bankacılık sistemleri:** hesap ve işlem yönetimi, güvenli erişim ve entegrasyonlar.
+- **Klinik yönetim sistemleri:** hasta kayıtları, randevular ve personel erişimi.
+- **E-ticaret sistemleri:** ürün katalogları, siparişler, stok ve ödeme entegrasyonları.
+
+Bunlar şirketin geliştirme alanlarıdır. Yayımlanan her projede uygulama durumu ve şirketin rolü belirtilecektir.
+
 ## Ürünler ve çözümler
 
 ### WSEMS — Kurumsal Yönetim Sistemi
