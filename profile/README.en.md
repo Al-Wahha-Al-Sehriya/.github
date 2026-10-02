@@ -2,7 +2,7 @@
 
 [English](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.md) · [العربية](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ar.md) · [Türkçe](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.tr.md) · [Русский](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ru.md) · [Deutsch](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.de.md)
 
-**Web design and development • Hosting and maintenance • Business solutions • Mobile app development**
+**Web design and development • Hosting and maintenance • Backend development • Data analytics • Mobile app development**
 
 Al‑Wahha Al‑Sehriya provides digital solutions for companies and institutions, from websites and software development to hosting, technical support and business systems. **Magical Oasis** is a secondary company name; **WSCICT** also appears on the company website.
 
@@ -15,6 +15,9 @@ Al‑Wahha Al‑Sehriya provides digital solutions for companies and institution
 - **Security and protection:** access management, security hardening and website protection.
 - **Branding and digital presence:** content structure and professional company presentation.
 - **Android and iOS app development:** a new service area; examples will be added when published.
+- **Backend development:** Java and Spring Boot services, REST APIs, microservices, authentication and role-based access, and database integration with PostgreSQL and MySQL.
+- **System integration and automation:** Kafka messaging, Docker-based delivery, and AI-enabled workflows using Spring AI.
+- **Data analytics and business intelligence:** data preparation and analysis, interactive dashboards, KPI tracking and management reports using **Power BI and Tableau**.
 
 ## Products and solutions
 
