@@ -2,7 +2,7 @@
 
 [English](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.md) · [العربية](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ar.md) · [Türkçe](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.tr.md) · [Русский](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ru.md) · [Deutsch](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.de.md)
 
-**Web tasarımı ve geliştirme • Hosting ve bakım • İş çözümleri • Mobil uygulama geliştirme**
+**Web tasarımı ve geliştirme • Hosting ve bakım • Backend geliştirme • Veri analitiği • Mobil uygulama geliştirme**
 
 Al‑Wahha Al‑Sehriya, şirketlere ve kurumlara web sitesi ve yazılım geliştirmeden hosting, teknik destek ve iş yönetim sistemlerine kadar dijital çözümler sunar. **Magical Oasis** şirketin ikincil adıdır; şirketin web sitesinde **WSCICT** adı da kullanılmaktadır.
 
@@ -15,6 +15,17 @@ Al‑Wahha Al‑Sehriya, şirketlere ve kurumlara web sitesi ve yazılım geliş
 - **Güvenlik ve koruma:** erişim yönetimi, güvenliği güçlendirme ve web sitesi koruması.
 - **Kurumsal kimlik ve dijital varlık:** içerik yapılandırması ve profesyonel şirket sunumu.
 - **Android ve iOS uygulama geliştirme:** yeni bir hizmet alanıdır; yayımlanan çalışmalar daha sonra eklenecektir.
+- **Backend geliştirme:** Java ve Spring Boot servisleri, REST API'leri, mikroservisler, kimlik doğrulama, rol tabanlı erişim ve PostgreSQL ile MySQL veritabanı entegrasyonu.
+- **Sistem entegrasyonu ve otomasyon:** Kafka ile mesajlaşma, Docker ile servislerin hazırlanması ve dağıtımı, Spring AI ile yapay zekâ destekli iş akışları.
+- **Veri analitiği ve iş zekâsı:** **Power BI ve Tableau** ile veri hazırlama ve analizi, etkileşimli panolar, performans göstergelerinin takibi ve yönetim raporları.
+
+## Backend çözüm alanları
+
+- **Bankacılık sistemleri:** hesap ve işlem yönetimi, güvenli erişim ve entegrasyonlar.
+- **Klinik yönetim sistemleri:** hasta kayıtları, randevular ve personel erişimi.
+- **E-ticaret sistemleri:** ürün katalogları, siparişler, stok ve ödeme entegrasyonları.
+
+Bunlar şirketin geliştirme alanlarıdır. Yayımlanan her projede uygulama durumu ve şirketin rolü belirtilecektir.
 
 ## Ürünler ve çözümler
 
