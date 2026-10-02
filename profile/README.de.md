@@ -2,7 +2,7 @@
 
 [English](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.md) · [العربية](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ar.md) · [Türkçe](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.tr.md) · [Русский](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.ru.md) · [Deutsch](https://github.com/Al-Wahha-Al-Sehriya/.github/blob/main/profile/README.de.md)
 
-**Webdesign und Entwicklung • Hosting und Wartung • Unternehmenslösungen • Entwicklung mobiler Apps**
+**Webdesign und Entwicklung • Hosting und Wartung • Backend-Entwicklung • Datenanalyse • Entwicklung mobiler Apps**
 
 Al‑Wahha Al‑Sehriya bietet Unternehmen und Institutionen digitale Lösungen: von Websites und Softwareentwicklung über Hosting und technischen Support bis hin zu Unternehmenssystemen. **Magical Oasis** ist ein weiterer Name des Unternehmens; auf der Unternehmenswebsite wird auch **WSCICT** verwendet.
 
@@ -15,6 +15,9 @@ Al‑Wahha Al‑Sehriya bietet Unternehmen und Institutionen digitale Lösungen:
 - **Sicherheit und Schutz:** Zugriffsverwaltung, Verbesserung der Sicherheit und Schutz von Websites.
 - **Markenauftritt und digitale Präsenz:** strukturierte Inhalte und professionelle Unternehmensdarstellung.
 - **Entwicklung von Android- und iOS-Apps:** ein neuer Leistungsbereich; Referenzen werden nach ihrer Veröffentlichung ergänzt.
+- **Backend-Entwicklung:** Dienste mit Java und Spring Boot, REST-APIs, Microservices, Authentifizierung, rollenbasierte Zugriffssteuerung sowie Datenbankintegration mit PostgreSQL und MySQL.
+- **Systemintegration und Automatisierung:** Nachrichtenaustausch mit Kafka, Bereitstellung von Diensten mit Docker und KI-gestützte Arbeitsabläufe mit Spring AI.
+- **Datenanalyse und Business Intelligence:** Datenaufbereitung und Analyse, interaktive Dashboards, Überwachung von Leistungskennzahlen und Managementberichte mit **Power BI und Tableau**.
 
 ## Produkte und Lösungen
 
