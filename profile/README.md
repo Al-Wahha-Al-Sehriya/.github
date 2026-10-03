@@ -29,6 +29,12 @@ We tailor these solutions to your workflows, integration needs and business prio
 
 ## Products and solutions
 
+### Offeria — RFQ & Proposal Platform
+
+A platform designed to organize requests for quotation, material knowledge and technical and commercial proposals within a unified procurement workflow.
+
+[Explore Offeria](https://github.com/offeria-io)
+
 ### WSEMS — Enterprise Management System
 
 Bring projects, contracts, invoices, finance, documents, HR, assets, procurement and reporting together in one platform. **WSEMS** gives your team a clearer view of operations, with modules, permissions and workflows tailored to your organization.
