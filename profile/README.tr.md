@@ -29,6 +29,12 @@ Yaklaşık 15 yıllık deneyimiyle **Al‑Wahha Al‑Sehriya**, şirketlerin ve 
 
 ## Ürünler ve çözümler
 
+### Offeria — Fiyat Talebi ve Teklif Platformu
+
+Fiyat taleplerini, malzeme bilgisini, teknik ve ticari teklifleri ortak bir satın alma sürecinde düzenlemek için tasarlanan bir platform.
+
+[Offeria'yı keşfedin](https://github.com/offeria-io)
+
 ### WSEMS — Kurumsal Yönetim Sistemi
 
 Proje, sözleşme, fatura, finans, belge, insan kaynakları, varlık, satın alma ve raporlama süreçlerinizi tek bir platformda birleştirin. **WSEMS**, kurumunuza göre uyarlanan modüller, yetkiler ve iş akışlarıyla ekibinizin operasyonları daha net görmesini sağlar.
