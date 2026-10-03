@@ -29,6 +29,12 @@ Wir passen diese Lösungen an Ihre Arbeitsabläufe, Integrationsanforderungen un
 
 ## Produkte und Lösungen
 
+### Offeria — Plattform für Preisanfragen und Angebote
+
+Eine Plattform zur Organisation von Preisanfragen, Materialwissen sowie technischen und kaufmännischen Angeboten in einem gemeinsamen Beschaffungsprozess.
+
+[Offeria entdecken](https://github.com/offeria-io)
+
 ### WSEMS — Unternehmensmanagementsystem
 
 Führen Sie Projekte, Verträge, Rechnungen, Finanzen, Dokumente, Personal, Anlagen, Beschaffung und Berichte auf einer Plattform zusammen. **WSEMS** verschafft Ihrem Team einen besseren Überblick über die Abläufe – mit Modulen, Berechtigungen und Prozessen, die auf Ihr Unternehmen abgestimmt sind.
